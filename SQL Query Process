@@ -2,3 +2,6 @@ Renamed Table
 Listed top 5 movies using ORDER BY/ DESC
 Discovered data uses multiple currencies UPDATED currency to USD
 Created new column in table and named "profit"
+Used GROUP BY function to find the most popular directors
+Used CROSS JOIN function to find most pupular genres
+Used COUNT function to find types of ratings for movies
